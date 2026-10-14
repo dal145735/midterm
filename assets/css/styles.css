@@ -1,2 +1,22 @@
 /* styles.css */
 
+body {
+  background-color: rgb(251, 254, 255);
+  font-family: "PT Sans Narrow", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "BBH Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(138, 201, 226);
+}
+
+h2{
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  color: rgb(63, 91, 103);
+}
